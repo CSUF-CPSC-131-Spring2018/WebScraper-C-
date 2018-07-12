@@ -5,7 +5,10 @@ Webscraper written in C++ and Python
 Put the python script inside of the same folder that the c++ source file is located in.
 This is so the cpp source file knows where to locate it, and can execute it from the c++ code
 
-## Project details:
-Python version: 3.4.3
+# Project details:
+- Python version: 3.4.3
+## Python modules:
+- beautifulsoup: 1. pip install beautifulsoup 2. pip install bs4
+
 
 
