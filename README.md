@@ -9,7 +9,7 @@
 - Python version: 3.4.3
 ## Python modules:
 - beautifulsoup: (TO INSTALL)
-    - $ pip install beautifulsoup
+    - $ pip install beautifulsoup4
     - $ pip install bs4
 
 
