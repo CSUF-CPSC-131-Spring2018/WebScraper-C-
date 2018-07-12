@@ -8,7 +8,9 @@
 # Project details:
 - Python version: 3.4.3
 ## Python modules:
-- beautifulsoup: (TO INSTALL): $ pip install beautifulsoup 2. pip install bs4
+- beautifulsoup: (TO INSTALL)
+-- $ pip install beautifulsoup
+-- $ pip install bs4
 
 
 
